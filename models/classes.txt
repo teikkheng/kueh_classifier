@@ -1,0 +1,1 @@
+['pulut_inti', 'tutu_kueh', 'kueh_pie_tee', 'putu_ayu', 'talam_ubi', 'ondeh_ondeh', 'lemper_udang', 'kueh_lapis', 'kueh_talam', 'kueh_salat', 'kueh_kosui', 'kueh_dadar', 'bingka_ubi', 'harum_manis', 'ang_ku_kueh']
